@@ -1,12 +1,12 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Angelina Castellar Contreras
+**Profesión: Estudiante SENA** _Tu profesión_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:**
+- **Email:		[title](gelinan73@gmail.com)) ** [correo@ejemplo.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
