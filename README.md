@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:**
-- **Email:** [](gelinan73@gmail.com)
+- **Email:** 	[title](gelinan73@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
