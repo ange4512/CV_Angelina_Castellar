@@ -16,13 +16,16 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **I.E.Lucreio Jaramillo Vélez** _(2024)_
+- Bachillerato.
+- Tecnico en Desarrollo de Software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Comunicación**
+- **Trabajo en equipo**
+- **Resposabilidad**
+- **Creatividad**
+- **Escucha activa**
 
 ----
 ## 🎨 Formatos y Fuentes Disponibles
