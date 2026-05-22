@@ -10,10 +10,9 @@
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
+### No tengo
 - Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
