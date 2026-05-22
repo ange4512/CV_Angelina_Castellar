@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Angelina Castellar Contreras
-**Profesión: Estudiante SENA** _Tu profesión_
+**Profesión: Estudiante SENA** 
 
 ## 📞 Contacto
 - **Teléfono:**
