@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:**
-- **Email:		[title](gelinan73@gmail.com)) ** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [mi correo](gelinan73@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
@@ -25,8 +25,7 @@
 - **Habilidad 2**
 - **Habilidad 3**
 
----
-
+----
 ## 🎨 Formatos y Fuentes Disponibles
 
 ### **Negrita:**
